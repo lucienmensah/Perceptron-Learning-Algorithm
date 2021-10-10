@@ -1,0 +1,3 @@
+#Perceptron Learning Algorithm
+
+This algorithim is a classification algorithm, and so this project picks random data points, has an established target function, and a predicted function uses PLA to, hopefully, converge with the target function. If the predicted function converges accurately with the target function, this would mean that it is accurately classing each of the points as positive or negative.
